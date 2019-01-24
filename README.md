@@ -1,6 +1,6 @@
 # B2
 This file summarises the procedure used for the analysis of the B2 fastq files deposited by [Cattonaro et al](https://f1000research.com/articles/7-1767/v1) on the ENA: [SRP163096](https://www.ebi.ac.uk/ena/data/view/PRJNA493815)
-Fastq files were retrived for sample B2.
+Fastq files were retrived for sample B2 (11,030,909 reads).
 Analysis were run using SeqBox ecosystem [Beccuti et al.](https://www.ncbi.nlm.nih.gov/pubmed/29069297)
 Fastq fle R1 and R2 were mapped on hg38 human genome using bwa software [Jo and Koh](https://www.ncbi.nlm.nih.gov/pubmed/26405948).
 
